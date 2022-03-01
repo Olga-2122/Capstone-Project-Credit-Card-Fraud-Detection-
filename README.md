@@ -10,6 +10,7 @@ The challenge is to recognize fraudulent credit card transactions so that the cu
 Data is collected for the period of 01/01/2019-12/31/2020.There are 23 columns in the data and 1852394 rows of transaction records. The column ‘is_fraud’ can be considered as the entire data label/target, which will be predicting.
 
 All columns:
+
 trans_date_trans_time - Transaction Date/Transaction Time
 cc_num - Customer's Credit Card Number
 merchant - Merchant by whom the trade occured
@@ -40,7 +41,7 @@ The Fraud case in the entire Data is imbalanced , therefore it is essencial to b
 Non-fraudulent transactions-99.48%
 Fraudulent transactions-0.52%
 
-Take away:
+Takeaway Key:
 
 
 Extreme Gradient Boosting (XGBoost) is an open-source library that provides an efficient and effective implementation of the gradient boosting algorithm. ... XGBoost can be used directly for regression predictive modeling. In this tutorial, you will discover how to develop and evaluate XGBoost regression models in Python.
