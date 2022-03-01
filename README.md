@@ -53,6 +53,7 @@ Precision quantifies the number of positive class predictions that actually belo
 
 
  CONCLUSION
+ 
 I've investigated the data, checked for imbalance, visualized the features and understood the relationship between different features.
 The data was split into 2 parts train and test sets . Four different Supervised Machine
 Learning algorithmshavebeenused:LogisticRegression,DecisionTreeClassifier,RandomForest Classifier and XGBoost Classifier as well as two techniques for imbalanced
