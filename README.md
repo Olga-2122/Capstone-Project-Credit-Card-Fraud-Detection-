@@ -35,7 +35,7 @@ merch_long - Merchant Longitude
 is_fraud - The Fraudulent Transaction /Not
 
 
-The Fraud case in the entire Data is imbalanced , therefore it is essencial to balance the data and  make sure that the classes are nearly equal to each other in the order to work with ML algorithms.
+The Fraud case in the entire Data is imbalanced , therefore it is essential to balance the data and  make sure that the classes are nearly equal to each other in order to work with ML algorithms.
 
 
 Non-fraudulent transactions-99.48%
@@ -62,5 +62,3 @@ data TheRandomUndersampledtechniqueand SMOTEtechnique. TheGridSearchwasused to f
 Future Work.
 One additional work that could have been achieved but could not be completed due to time crunch was using neural networks to see if it could further improve the model results. Also, if I could have time for each of the models, I would apply other techniques for imbalanced data and tune my models.
 
-
-After cleaning the data I run ML models for Fraud Detection Analysis: Logistic Regression, Decission Tree,Random Forest Classification, XGBoost,Anomaly Detection. For now it seems Local outlier factor(LOF) performs bettter and Decision Tree Classifier.
