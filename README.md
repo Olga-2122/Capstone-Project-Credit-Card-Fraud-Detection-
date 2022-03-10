@@ -62,3 +62,5 @@ data TheRandomUndersampledtechniqueand SMOTEtechnique. TheGridSearchwasused to f
 Future Work.
 One additional work that could have been achieved but could not be completed due to time crunch was using neural networks to see if it could further improve the model results. Also, if I could have time for each of the models, I would apply other techniques for imbalanced data and tune my models.
 
+License and Copyright © 
+Olga Caireac , General Assembly DSI-21.   
